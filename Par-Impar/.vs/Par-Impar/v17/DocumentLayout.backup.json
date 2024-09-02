@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usuario\\Desktop\\ESTUDOS\\Par-Impar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07163C7F-2ED2-4E5D-8E29-78F217FA6EC3}|Par-Impar\\Par-Impar.csproj|c:\\users\\usuario\\desktop\\estudos\\par-impar\\par-impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07163C7F-2ED2-4E5D-8E29-78F217FA6EC3}|Par-Impar\\Par-Impar.csproj|solutionrelative:par-impar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usuario\\Desktop\\ESTUDOS\\Par-Impar\\Par-Impar\\Program.cs",
+              "RelativeDocumentMoniker": "Par-Impar\\Program.cs",
+              "ToolTip": "C:\\Users\\usuario\\Desktop\\ESTUDOS\\Par-Impar\\Par-Impar\\Program.cs",
+              "RelativeToolTip": "Par-Impar\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T18:33:53.565Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

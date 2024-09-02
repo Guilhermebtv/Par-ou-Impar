@@ -1,0 +1,7 @@
+C:\Users\usuario\Desktop\ESTUDOS\Par-Impar\Par-Impar\bin\Debug\Par-Impar.exe.config
+C:\Users\usuario\Desktop\ESTUDOS\Par-Impar\Par-Impar\bin\Debug\Par-Impar.exe
+C:\Users\usuario\Desktop\ESTUDOS\Par-Impar\Par-Impar\bin\Debug\Par-Impar.pdb
+C:\Users\usuario\Desktop\ESTUDOS\Par-Impar\Par-Impar\obj\Debug\Par-Impar.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ESTUDOS\Par-Impar\Par-Impar\obj\Debug\Par-Impar.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\Par-Impar\Par-Impar\obj\Debug\Par-Impar.exe
+C:\Users\usuario\Desktop\ESTUDOS\Par-Impar\Par-Impar\obj\Debug\Par-Impar.pdb
